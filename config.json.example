@@ -1,0 +1,14 @@
+{
+  "cameras": [
+    {
+      "name": "test1",
+      "url": "",
+      "enabled": true
+    },
+    {
+      "name": "test2",
+      "url": "",
+      "enabled": true
+    }
+  ]
+}
